@@ -1,1 +1,1 @@
-Version inicial del fichero de ramas
+Cambio realizado en la rama desarrollo
